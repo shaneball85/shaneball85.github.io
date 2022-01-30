@@ -10,6 +10,6 @@ This is my first page on GitHub. I am just testing out the basics and learning a
 
 ### My Work
 
-I am just starting out with programing. Feel free to [visit my GitHub](https://github.com/shaneball85) to check on my progress. Any hits or feedback is greatly appreciated!
+I am just starting out with programing. Feel free to [visit my GitHub](https://github.com/shaneball85) to check on my progress. Any hints or feedback is greatly appreciated!
 
 Cheers Everyone!
